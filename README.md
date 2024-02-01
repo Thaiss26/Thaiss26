@@ -1,5 +1,5 @@
 ### Olá!!! Eu sou a Thaís 👋
-Eu tenho 21 anos, cursoo análise e desenvolvimento de sistemas, pretendo atuar na área de front-end e levar uma ótima experiência de usuário!!!
+Eu tenho 21 anos, curso análise e desenvolvimento de sistemas, pretendo atuar na área de front-end e levar uma ótima experiência de usuário!!!
 
 ### Habilidades
 
