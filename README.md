@@ -7,7 +7,7 @@ Eu tenho 21 anos, curso análise e desenvolvimento de sistemas, pretendo atuar n
  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+ <img align="center" alt="Thais.React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
 
  ### Conecte-se Comigo
 
@@ -23,8 +23,9 @@ Eu tenho 21 anos, curso análise e desenvolvimento de sistemas, pretendo atuar n
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaiss26&show_icons-false&theme=dracula&bgicons=false&icon_color=ffcbdb&title_colo=ffcbdb&text_color=FFF)
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
