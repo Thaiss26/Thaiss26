@@ -1,5 +1,6 @@
 ### Olá!!! Eu sou a Thaís 👋
-Eu tenho 21 anos, curso análise e desenvolvimento de sistemas, pretendo atuar na área de front-end e levar uma ótima experiência de usuário!!!
+Eu sou QA e curso análise e desenvolvimento de sistemas.📚
+Estou em constante aprendizado e me aventurando na área de qualidade de software.
 
 ### Habilidades
 
@@ -8,6 +9,9 @@ Eu tenho 21 anos, curso análise e desenvolvimento de sistemas, pretendo atuar n
  <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Thais.React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
+ <img align="center" alt="Thais.Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"/> 
+ <img align="center" alt="Thais.Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/> 
+ <img align="center" alt="Thais.Cypress" height="30" width="40" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/main/src/logo/cypress-logo-dark.svg" height="30" alt="cypress logo"/>
 
  ### Conecte-se Comigo
 
