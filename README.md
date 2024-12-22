@@ -11,7 +11,7 @@ Estou em constante aprendizado e me aventurando na área de qualidade de softwar
  <img align="center" alt="Thais.React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
  <img align="center" alt="Thais.Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"/> 
  <img align="center" alt="Thais.Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/> 
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cypress&theme=dark&perline=15" alt="My Skills" /></a>
+ <img align="center" alt="Thais.Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="30" alt="cypress logo"/>
 
  ### Conecte-se Comigo
 
