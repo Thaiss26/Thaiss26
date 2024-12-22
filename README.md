@@ -1,5 +1,6 @@
 ### Olá!!! Eu sou a Thaís 👋
 Eu sou QA e curso análise e desenvolvimento de sistemas.📚
+
 Estou em constante aprendizado e me aventurando na área de qualidade de software.
 
 ### Habilidades
