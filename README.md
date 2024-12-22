@@ -4,14 +4,7 @@ Estou em constante aprendizado e me aventurando na área de qualidade de softwar
 
 ### Habilidades
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Thais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Thais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Thais.React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
- <img align="center" alt="Thais.Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"/> 
- <img align="center" alt="Thais.Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/> 
- <img align="center" alt="Thais.Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="30" alt="cypress logo"/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cypress,selenium,python,javascript,react,nodejs,css,html,git&theme=light&perline=15" alt="My Skills" /></a>
 
  ### Conecte-se Comigo
 
