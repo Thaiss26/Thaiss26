@@ -3,6 +3,16 @@ Eu sou QA e curso análise e desenvolvimento de sistemas.📚
 
 Estou em constante aprendizado e me aventurando na área de qualidade de software.
 
+<div> 
+    <a href="https://github.com/Thaiss26">
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Thaiss26a&show_icons=true&theme=dark" />
+    </a>
+    <a href="https://github.com/Thaiss26/convoychat">
+      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thaiss26&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    </a>
+</div>
+
+
 ### Habilidades
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cypress,selenium,python,javascript,react,nodejs,css,html,git,githubactions,github&theme=light&perline=15" alt="My Skills" /></a>
