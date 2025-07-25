@@ -1,7 +1,12 @@
-### Olá!!! Eu sou a Thaís 👋
-Eu sou QA e curso análise e desenvolvimento de sistemas.📚
+### Olá!!! Eu sou a Thaís - Bem-Vindo(a) ao meu GitHub! 👋
 
-Estou em constante aprendizado e me aventurando na área de qualidade de software.
+Sou QA, apaixonada por qualidade de software, com foco em testes manuais e automatizados. Atualmente, sou estagiária de QA no Instituto Conecthus, atuando com testes funcionais e exploratórios em aplicações WEB e MOBILE.
+
+📈 Busco desenvolver minhas habilidades técnicas e crescer profissionalmente na área de QA, sempre aprendendo e colaborando com qualidade nas entregas.
+
+🚀 Aberta a novos desafios e oportunidades na área de qualidade de software.
+
+📫 Contato: thais.vieraa26@gmail.com
 
 <div> 
     <a href="https://github.com/Thaiss26">
