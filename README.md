@@ -13,27 +13,28 @@ Sou QA, apaixonada por qualidade de software, com foco em testes manuais e autom
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?Thaiss26=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=Thaiss26&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?Thaiss26=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaiss26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Langs"
       />
     </td>
     <td>
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?Thaiss26=iuricode&theme=dark&hide_border=false"
-        alt="Github Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Thaiss26&theme=dark&hide_border=false"
+        alt="Github Streak"
       />
     </td>
   </tr>
 </table>
+
 
 
 ### Habilidades
