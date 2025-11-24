@@ -8,10 +8,6 @@ Sou QA, apaixonada por qualidade de software, com foco em testes manuais e autom
 
 📫 Contato: thais.vieraa26@gmail.com
 
-## Olá, meu nome é {seu nome}!
-
-### ⚙️ GitHub Analytics
-
 <table>
   <tr>
     <td>
@@ -28,18 +24,7 @@ Sou QA, apaixonada por qualidade de software, com foco em testes manuais e autom
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Thaiss26&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
 </table>
-
---- 
 
 ### Habilidades
 
