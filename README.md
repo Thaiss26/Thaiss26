@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou a Thaís - Bem-Vindo(a) ao meu GitHub! 👋
 
-Sou QA, apaixonada por qualidade de software, com foco em testes manuais e automatizados. Atualmente, sou estagiária de QA no Instituto Conecthus, atuando com testes funcionais e exploratórios em aplicações WEB e MOBILE.
+Sou QA, apaixonada por qualidade de software, com foco em testes manuais e automatizados. Atualmente, sou Analista de Testes jr no Instituto Conecthus, atuando com testes funcionais e exploratórios em aplicações WEB e MOBILE.
 
 📈 Busco desenvolver minhas habilidades técnicas e crescer profissionalmente na área de QA, sempre aprendendo e colaborando com qualidade nas entregas.
 
@@ -8,19 +8,37 @@ Sou QA, apaixonada por qualidade de software, com foco em testes manuais e autom
 
 📫 Contato: thais.vieraa26@gmail.com
 
-<div> 
-    <a href="https://github.com/Thaiss26">
-      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Thaiss26&show_icons=true&theme=dark" />
-    </a>
-    <a href="https://github.com/Thaiss26/convoychat">
-      <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thaiss26&layout=compact&langs_count=8&card_width=320&theme=dark" />
-    </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?Thaiss26=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?Thaiss26=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ### Habilidades
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cypress,selenium,python,javascript,react,nodejs,css,html,git,githubactions,github&theme=light&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cypress,selenium,python,javascript,react,nodejs,css,html,git,postman,githubactions,github&theme=light&perline=15" alt="My Skills" /></a>
 
  ### Conecte-se Comigo
 
