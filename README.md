@@ -28,7 +28,7 @@ Sou QA, apaixonada por qualidade de software, com foco em testes manuais e autom
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?Thaiss26=iuricode&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
