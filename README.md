@@ -25,7 +25,6 @@ Sou QA, apaixonada por qualidade de software, com foco em testes manuais e autom
       />
     </td>
     <td>
-      <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Thaiss26&theme=dark&hide_border=false"
