@@ -1,6 +1,6 @@
 ## Olá, eu sou a Thaís 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=8B7FE8&vCenter=true&width=480&lines=Analista+de+Testes+Jr+%C2%B7+Instituto+Conecthus%3BCertificada+ISTQB+CTFL%3BTestes+manuais%2C+automa%C3%A7%C3%A3o+e+API" alt="Analista de Testes Jr · Certificada ISTQB CTFL · Testes manuais, automação e API" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=8B7FE8&vCenter=true&width=300&lines=QA+Engineer" alt="QA Engineer" />
 
 Analista de Testes Jr no **Instituto Conecthus**, com cerca de 2 anos em Quality Assurance em projetos de Pesquisa e Desenvolvimento. Certificada **ISTQB CTFL**.
 
