@@ -24,9 +24,7 @@ Analista de Testes Jr no **Instituto Conecthus**, com cerca de 2 anos em Quality
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cypress,selenium,py,js,java,react,nodejs,css,html,git,github,gitlab,githubactions,postman,postgres&theme=light&perline=15" alt="Habilidades" /></a>
 
 <p>
- <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/></code>
-</div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/>
   <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
